@@ -1,0 +1,5 @@
+fastapi[all]==0.54.1
+aiofiles==0.5.0
+uvicorn==0.11.3
+PyMySQL==0.9.3
+TorMySQL==0.4.2
